@@ -21,5 +21,3 @@ Screenshots and command output referenced by the control tests (`../04-control-t
 - **C6** — `grep` for `NEXT_PUBLIC_*` database vars returned nothing.
 - **C8** — `grep` for `rateLimit` across auth routes incl. `lib/auth-authorize.ts:26`.
 
-> Replace these notes with pasted terminal captures / screenshots of each command
-> run if you want the evidence fully self-contained in the repo.
